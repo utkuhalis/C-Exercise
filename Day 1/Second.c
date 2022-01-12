@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
-
 main()
 {
 	int n = 100;

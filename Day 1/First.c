@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-void main()
+main()
 {
     printf("%d \n", 100);
     printf("%c \n", 65);
